@@ -717,7 +717,7 @@ button {
 
 .ul-progress-container {
   width: 100%;
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
 }
 .ul-progressbar {
   width: 0;
@@ -1397,7 +1397,7 @@ button {
 }
 
 .ul-cities {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -1849,7 +1849,7 @@ button {
 }
 
 .ul-properties {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -2682,7 +2682,7 @@ button {
 
 .ul-team {
   position: relative;
-  background: linear-gradient(90deg, rgb(255, 255, 255) 67%, #F2F7FD 0%);
+  background: linear-gradient(90deg, rgb(255, 255, 255) 67%, #E3F1C0 0%);
 }
 .ul-team-slider {
   padding: 40px 29px;
@@ -2965,7 +2965,7 @@ button {
 }
 
 .ul-projects-page-content-wrapper {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   padding-bottom: clamp(60px, 6.31vw, 120px);
 }
 .ul-projects-search-filters {
@@ -3800,7 +3800,7 @@ button {
 }
 
 .ul-services {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
 }
 .ul-services .ul-section-title {
   text-align: center;
@@ -3896,7 +3896,7 @@ button {
   }
 }
 .ul-service-details-sidebar-widget {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   border-radius: 10px;
   padding: clamp(20px, 2.1vw, 40px) clamp(15px, 1.84vw, 35px);
 }
@@ -4033,7 +4033,7 @@ button {
   font-size: clamp(17px, 1.05vw, 20px);
 }
 .ul-service-details-faq .ul-single-accordion-item.open {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
 }
 
 .ul-team-details {
@@ -4143,7 +4143,7 @@ button {
 }
 
 .ul-team-more-details {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   margin-top: clamp(25px, 2.36vw, 45px);
 }
 .ul-team-more-details-title {
@@ -4251,7 +4251,7 @@ button {
 }
 .ul-blog-sidebar-widget {
   padding: clamp(25px, 2.1vw, 40px) clamp(15px, 1.58vw, 30px);
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   border-radius: 10px;
   margin-bottom: clamp(15px, 1.26vw, 24px);
 }
@@ -4411,7 +4411,7 @@ button {
   }
 }
 .ul-blog-details blockquote {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   padding: clamp(15px, 1.58vw, 30px) clamp(20px, 2.1vw, 40px);
   padding-right: clamp(80px, 6.83vw, 130px);
   border-radius: 10px;
@@ -4581,7 +4581,7 @@ button {
 }
 
 .ul-pricing {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
 }
 .ul-pricing-title {
   font-weight: 700;
@@ -4756,7 +4756,7 @@ button {
 }
 
 .ul-contact {
-  background-color: #F2F7FD;
+  background-color: #E3F1C0;
   padding: clamp(7px, 0.53vw, 10px);
   border-radius: 10px;
 }
