@@ -2,8 +2,8 @@
     --container-space-x: 0px;
     max-width: calc(clamp(940px, 75.67vw, 1440px) - var(--container-space-x));
     margin: auto;
-    background: rgba(0, 97, 224, 0.05);
-    background-color: rgba(0, 97, 224, 0.05);
+    background: #E3F1C0;
+    background-color: #E3F1C0;
     box-shadow: 0px 4px 200px rgba(232, 249, 247, 0.2);
     border-radius: clamp(15px, 1.58vw, 30px);
     padding: clamp(50px, 5.25vw, 100px) clamp(15px, 7.09vw, 135px);
@@ -11,6 +11,7 @@
     align-items: flex-start;
     justify-content: center;
     gap: clamp(20px, 5.99vw, 114px);
+    margin-bottom: 5rem;
 
     @include xl {
         gap: clamp(20px, 2.99vw, 114px);
@@ -78,7 +79,7 @@
     &-wrapper {
         // font-size: clamp(111px, 5.99vw, 114px);
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(1, 1fr);
         gap: clamp(20px, 3.42vw, 65px);
 
         @include xxs {
@@ -133,11 +134,11 @@
 
 // services
 .ul-services {
-    background-color: #F2F7FD;
+    background-color: #E3F1C0;
 
     .ul-section-title {
         text-align: center;
-        margin-bottom: clamp(22px, 2.73vw, 52px);
+        margin-bottom: 20px;
     }
 
     .ul-service {
@@ -150,14 +151,14 @@
         transition: border 0.3s ease;
 
         &:hover {
-            border-bottom: 4px solid #2516DF;
+            border-bottom: 4px solid #667936;
 
             .ul-service-title {
                 color: var(--ul-primary);
             }
 
             .ul-service-btn {
-                color: #2516DF;
+                color: #667936;
             }
         }
 

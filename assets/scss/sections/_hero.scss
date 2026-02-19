@@ -10,7 +10,7 @@
     &-slide {
         // padding: clamp(15px, 5.25vw, 100px);
         padding: clamp(250px, 16.29vw, 310px) clamp(15px, 5.25vw, 100px) clamp(180px, 12.61vw, 240px);
-        background: url(../img/banner-slide-1.jpg) no-repeat center center;
+        background: url(../img/banner.webp) no-repeat center center;
         background-size: cover;
         position: relative;
         z-index: 1;
@@ -28,7 +28,7 @@
             position: absolute;
             content: "";
             inset: 0;
-            background: linear-gradient(90deg, #000929 0%, rgba(0, 9, 41, 0.5) 100%);
+           background: linear-gradient(90deg, #272B2D 0%, rgba(39, 43, 45, 0.2) 100%);
             z-index: -1;
         }
 

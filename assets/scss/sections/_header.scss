@@ -373,7 +373,11 @@
 
     &--home {
         &.sticky {
-            background-color: var(--ul-secondary);
+            background-color: #fff;
+
+            i, a {
+                color: var(--ul-secondary);
+            }
         }
 
         .ul-header {
