@@ -103,6 +103,11 @@
         outline-offset: -5px;
         margin-bottom: clamp(14px, 1.26vw, 24px);
 
+        img {
+            border-radius: 100%;
+            padding: .5rem;
+        }
+
         .sm-icon {
             position: absolute;
             width: 24px;
@@ -176,6 +181,9 @@
             font-size: clamp(30px, 2.89vw, 55px);
             margin: auto;
             margin-bottom: clamp(9px, 1.00vw, 19px);
+            img {
+                border-radius: 100%;
+            }
         }
 
         &-title {

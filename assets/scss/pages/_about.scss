@@ -6,10 +6,6 @@
     }
 
     &-imgs {
-        display: flex;
-        justify-content: flex-end;
-        gap: clamp(15px, 1.05vw, 20px);
-
         @include md {
             justify-content: center;
         }
@@ -17,9 +13,9 @@
         img {
             max-width: none;
             border-radius: clamp(12px, 1.05vw, 20px);
-            max-width: clamp(212px, 29.01vw, 552px);
             object-fit: cover;
             height: 100%;
+            width: 100%;
         }
 
         .img {
